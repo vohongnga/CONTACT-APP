@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactV1</string>
+    <string name="title_activity_add_contact">New Contact</string>
+    <string name="title_activity_edit_contact">Edit Contact</string>
+</resources>
